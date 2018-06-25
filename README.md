@@ -109,7 +109,7 @@ Or
 
 ## LICENSE!
 
-CoverFlow is [MIT-licensed](https://github.com/mindinventory/one-signal-push-notification-with-nodejs/blob/master/LICENSE)
+Onesignal-node is [MIT-licensed](https://github.com/mindinventory/one-signal-push-notification-with-nodejs/blob/master/LICENSE)
 
 ## Let us know!
 We’d be really happy if you sent us links to your projects where you use our component. Just send an email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
